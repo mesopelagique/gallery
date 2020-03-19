@@ -11,6 +11,7 @@ import Item from "./Item.vue";
 import ShareItem from "./ShareItem.vue";
 import GalleryItem from "./GalleryItem.vue";
 import api from "@4d-for-ios/gallery_api";
+api.baseURL="https://mesopelagique.github.io/gallery/Specs/";
 
 import { serverBus } from '../main.js';
 
