@@ -16,7 +16,7 @@ jobs:
       - name: 🌊 Install gallery-workflow
         run: |
           rm -f .build/release/gallery-workflow
-          curl -L https://github.com/$GITHUB_REPOSITORY-workflow/releases/latest/download/gallery-workflow.zip --output gallery-workflow.zip
+          curl -L https://github.com/4d-for-ios/gallery-workflow/releases/latest/download/gallery-workflow.zip --output gallery-workflow.zip
           unzip gallery-workflow.zip
           rm gallery-workflow.zip
           if [ -f .build/release/gallery-workflow ]; then
