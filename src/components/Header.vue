@@ -2,23 +2,14 @@
   <div class="fixedHeaderContainer">
     <div class="headerWrapper wrapper">
       <header>
-        <a href="https://developer.4d.com/4d-for-ios/">
-          <h2 class="headerTitle">4D for iOS</h2>
+        <a href="https://mesopelagique.github.io/gallery/">
+          <h2 class="headerTitle">4D Kaluza</h2>
         </a>
         <div class="navigationWrapper navigationSlider">
           <nav class="slidingNav">
             <ul class="nav-site nav-site-internal">
               <li>
-                <router-link class="link" to="/type/form-list"><b>List Forms</b></router-link>
-              </li>
-              <li>
-                <router-link class="link" to="/type/form-detail"><b>Detail Forms</b></router-link>
-              </li>
-              <li>
-                <router-link class="link" to="/type/form-login"><b>Login Forms</b></router-link>
-              </li>
-              <li>
-                <router-link class="link" to="/type/formatter"><b>Formatters</b></router-link>
+                <router-link class="link" to="/type/component"><b>Components</b></router-link>
               </li>
               <li  class="navSearchWrapper reactNavSearchWrapper">
                 <span
