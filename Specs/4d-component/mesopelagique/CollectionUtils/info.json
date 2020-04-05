@@ -127,7 +127,7 @@
     "zipball_url": "https://api.github.com/repos/mesopelagique/CollectionUtils/zipball/0.0.3"
   },
   "releases_url": "https://api.github.com/repos/mesopelagique/CollectionUtils/releases{/id}",
-  "size": 54,
+  "size": 56,
   "ssh_url": "git@github.com:mesopelagique/CollectionUtils.git",
   "stargazers_count": 1,
   "stargazers_url": "https://api.github.com/repos/mesopelagique/CollectionUtils/stargazers",
