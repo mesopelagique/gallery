@@ -86,7 +86,7 @@
   },
   "private": false,
   "pulls_url": "https://api.github.com/repos/mesopelagique/CollectionUtils/pulls{/number}",
-  "pushed_at": "2020-04-05T06:16:56Z",
+  "pushed_at": "2020-04-05T07:19:59Z",
   "release": {
     "assets": [],
     "assets_url": "https://api.github.com/repos/mesopelagique/CollectionUtils/releases/24729355/assets",
@@ -140,7 +140,7 @@
   "teams_url": "https://api.github.com/repos/mesopelagique/CollectionUtils/teams",
   "temp_clone_token": "",
   "trees_url": "https://api.github.com/repos/mesopelagique/CollectionUtils/git/trees{/sha}",
-  "updated_at": "2020-04-05T06:16:59Z",
+  "updated_at": "2020-04-05T07:20:01Z",
   "url": "https://api.github.com/repos/mesopelagique/CollectionUtils",
   "visibility": "public",
   "watchers": 1,
